@@ -1,0 +1,2 @@
+each sfx has own htmlEffectContainer
+    able to manipulate Canvas element and text element

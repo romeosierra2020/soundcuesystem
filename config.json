@@ -1,0 +1,97 @@
+{
+    "tracks": [
+        {
+            "name": "Bastille Day",
+            "file": "bastilleDay.m4a",
+            "startVolume": 0.8
+
+        },
+        {
+            "name": "Just Give Me A Reason",
+            "file": "justGiveMeAReason.m4a",
+            "startVolume": 0.8
+
+        },
+        {
+            "name": "Just The Way You Are",
+            "file": "justTheWayYouAre.m4a",
+            "startVolume": 1
+
+        },
+        {
+            "name": "Lakeside Park",
+            "file": "lakesidePark.m4a",
+            "startVolume": 10
+
+        },
+        {
+            "name": "Overture",
+            "file": "overture.m4a",
+            "startVolume": 0.8
+
+        },
+        {
+            "name": "Spirit of Radio",
+            "file": "spiritOfRadio.m4a",
+            "startVolume": 0.8
+
+        },
+        {
+            "name": "Walk Of Life",
+            "file": "walkOfLife.m4a",
+            "startVolume": 0.8
+
+        },
+        {
+            "name": "Walk Of Life",
+            "file": "walkOfLife.m4a",
+            "startVolume": 0.8
+
+        }
+        
+    ],
+    "controls" :
+    [
+        {
+            "name": "play",
+            "symbol": "Pl",
+            "callback": "play"
+        },
+        {
+            "name": "stop",
+            "symbol": "S",
+            "callback": "stop"
+        },
+        {
+            "name": "pause",
+            "symbol": "Pa",
+            "callback": "pause"
+        },
+        {
+            "name": "fade5",
+            "symbol": "F5",
+            "callback": "fade"
+        },
+        {
+            "name": "fade4",
+            "symbol": "F4",
+            "callback": "fade"
+        },
+        {
+            "name": "fade3",
+            "symbol": "F3",
+            "callback": "fade"
+        },
+        {
+            "name": "fade2",
+            "symbol": "F2",
+            "callback": "fade"
+        },
+        {
+            "name": "fade1",
+            "symbol": "F1",
+            "callback": "fade"
+        }
+        
+    ]
+}

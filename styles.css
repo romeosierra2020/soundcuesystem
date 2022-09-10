@@ -1,0 +1,43 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    --clr-black: #0d1b2a;
+    --clr-primary: #1b263b;
+    --clr-secondary: #415a77;
+    --clr-accent: #778da9;
+    --clr-white: #e0e1dd;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* background-color: var(--clr-black); */
+       
+}
+
+/* .trackContainer {
+    width: 98vw;
+    margin: 5px;
+    padding: 1px;
+    border: solid 2px var(--clr-primary);
+    background-color: var(--clr-accent);
+}
+
+.btnTitle {
+    width: 500px;
+    height: 40px;
+    margin: 2px;
+    padding: 2px;
+    font-size: 1.5rem;
+    color: var(--clr-accent);
+}
+
+.btnStop {
+
+    aspect-ratio: 1;
+    height: 100%;
+    margin: 2px;
+    padding: 2px;
+    font-size: 1.5rem;
+    color: var(--clr-black);
+} */
